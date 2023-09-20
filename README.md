@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalgogoi1209
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React js
 - 📫 How to reach me : Mail-Id: gogoipranjal2022@gmail.com
 
 <!---
