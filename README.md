@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalgogoi1209
 - 👀 I’m interested in Frontend Development
-- 🚀 REDUX, REACTjs, JAVASCRIPT, Bootstrap, Tailwind, CSS3, HTML5
+- 🚀 REDUX, REACTjs, JAVASCRIPT, BOOTSTRAP, TAILWIND, CSS3, HTML5
 - 🌱 I’m currently learning Node Js & Express Js
 - 📫 How to reach me : Mail-Id: gogoipranjal2022@gmail.com
 
