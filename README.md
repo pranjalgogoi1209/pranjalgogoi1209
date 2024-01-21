@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranjalgogoi1209
 - 👀 I’m interested in Frontend Development
 - 🚀 REACTjs, JAVASCRIPT, BOOTSTRAP, MATERIAL UI, TAILWIND, CSS3, HTML5
-- 🌱 I’m currently learning Node.js and DSA
+- 🌱 I’m currently learning Next.js, Node.js and DSA
 - 📫 How to reach me : Mail-Id: gogoipranjal2022@gmail.com
 
 <!---
