@@ -4,12 +4,7 @@
 - 🌱 I’m currently learning Node.js.
 - 📫 How to reach me : Mail-Id: gogoipranjal2022@gmail.com.
 
-  <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pranjal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalgogoi1209&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
+ <img align="left" alt="Pranjal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalgogoi1209&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
