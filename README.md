@@ -7,7 +7,7 @@
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Akshay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Akshaykalhane&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Pranjal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranjalgogoi1209&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
